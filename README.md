@@ -1,2 +1,2 @@
 # classwork_nicoline
-This is my personal projects
+This is for me to practice git
